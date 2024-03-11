@@ -21,7 +21,7 @@ public class Courses {
     private String name;
     private String description;
     private String imgUrl;
-    private Integer price;
+    // private Integer price;
 
     public Courses() {
     }
